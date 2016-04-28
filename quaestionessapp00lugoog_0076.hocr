@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionessapp00lugoog_0076.png"; bbox 0 0 3804 5786; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 518 1572 1350 1709">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 518 1481 1350 1709">
+     <span class='ocr_line' id='line_1_1' title="bbox 518 1572 1350 1709; baseline 0.002 -5"><span class='ocrx_word' id='word_1_1' title='bbox 518 1573 749 1708; x_wconf 74' lang='lat' dir='ltr'><strong>PARS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 816 1572 1350 1709; x_wconf 61' lang='lat' dir='ltr'><strong>Pomm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 823 1960 1037 1978">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 823 1960 1037 1978">
+     <span class='ocr_line' id='line_1_2' title="bbox 823 1960 1036 1968; baseline -0.005 -1"><span class='ocrx_word' id='word_1_3' title='bbox 823 1960 1036 1968; x_wconf 80' lang='lat'><strong>-——-—-—-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 824 1971 1037 1978; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 824 1971 1037 1978; x_wconf 46' lang='grc' dir='ltr'><strong>-ψ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 362 2237 1636 2413">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 362 2171 1636 2464">
+     <span class='ocr_line' id='line_1_4' title="bbox 362 2237 1636 2413; baseline -0.02 -18"><span class='ocrx_word' id='word_1_5' title='bbox 362 2237 648 2396; x_wconf 69' lang='lat' dir='ltr'>SAPPHUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 701 2239 1016 2413; x_wconf 61' lang='grc' dir='ltr'>,ΝΟῊΉΑΕ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1074 2237 1505 2394; x_wconf 54' lang='lat' dir='ltr'><strong>mmmmm</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1630 2353 1636 2370; x_wconf 81' lang='grc'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 455 2615 1418 2720">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 455 2615 1418 2720">
+     <span class='ocr_line' id='line_1_5' title="bbox 455 2615 1418 2720; baseline 0.002 -18"><span class='ocrx_word' id='word_1_9' title='bbox 455 2615 946 2720; x_wconf 76' lang='lat' dir='ltr'><strong>OORRIGENDAEQUE}</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 974 2617 1418 2705; x_wconf 74' lang='lat' dir='ltr'><strong>EXPERIMEINTUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 820 2937 1035 2962">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 820 2937 1035 2962">
+     <span class='ocr_line' id='line_1_6' title="bbox 820 2937 1035 2962; baseline -0.009 -6"><span class='ocrx_word' id='word_1_11' title='bbox 820 2937 1035 2962; x_wconf 53' lang='grc' dir='ltr'><strong>ΝννχΝΝ-ΛΜΛ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1906 5786">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1906 5786">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1906 5786; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1906 5786; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
